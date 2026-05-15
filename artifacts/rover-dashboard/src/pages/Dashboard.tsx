@@ -580,7 +580,7 @@ export default function Dashboard() {
             <IconPlant2 size={22} color="#5A9A2A" />
           </div>
           <div>
-            <div style={{ fontSize: 20, fontWeight: 600, color: "#fff" }}>Rover Irrigation & Fertiliser AI</div>
+            <div style={{ fontSize: 20, fontWeight: 600, color: "#fff" }}>Irrigation & Fertiliser AI</div>
             <div style={{ fontSize: 11, color: "#8FA3B8", marginTop: 2 }}>RV College of Engineering · Autonomous water + nutrient dispensing system</div>
           </div>
         </div>
