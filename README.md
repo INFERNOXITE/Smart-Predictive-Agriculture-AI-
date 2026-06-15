@@ -451,7 +451,7 @@ This project is designed to be valuable for both **academic** and **industrial**
 
 <div align="center">
 
-**[Your Name]**
+**Utkarsh Ashish Pandey**
 
 🎓 B.E./B.Tech — [Department Name], RV College of Engineering
 📧 [your.email@example.com](mailto:your.email@example.com) • 💼 [LinkedIn](https://linkedin.com/in/your-profile) • 🐙 [GitHub](https://github.com/your-username)
