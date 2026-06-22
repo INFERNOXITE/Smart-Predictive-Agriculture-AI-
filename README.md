@@ -474,7 +474,7 @@ We would like to express our sincere gratitude to:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **APACHE LICENSE 2.0 License**.
 
 ```
 MIT License
