@@ -5,7 +5,7 @@
 ### AI-Powered Agricultural Monitoring & Decision-Support System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)]()
 [![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)]()
 [![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)]()
