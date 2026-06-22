@@ -447,20 +447,6 @@ This project is designed to be valuable for both **academic** and **industrial**
 
 ---
 
-## 👥 Authors
-
-<div align="center">
-
-**[Your Name]**
-
-🎓 B.E./B.Tech — [Department Name], RV College of Engineering
-📧 [your.email@example.com](mailto:your.email@example.com) • 💼 [LinkedIn](https://linkedin.com/in/your-profile) • 🐙 [GitHub](https://github.com/your-username)
-
-</div>
-
-> Contributions from project team members can be added here in the same format.
-
----
 
 ## 🙏 Acknowledgements
 
